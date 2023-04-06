@@ -3,7 +3,8 @@
 This project was made for Data Visualization Techniques course.
 Our task was to analyze data connected with sports and as a result create a poster.
 
-## Collaborators:
+## Authors:
+[Tymoteusz Urban](https://github.com/tymsoncyferki)
 [Sebastian Trojan](https://github.com/SebastianTrojan)<br>
 [Wiktor Woźniak](https://github.com/wozniakw2002)
 
