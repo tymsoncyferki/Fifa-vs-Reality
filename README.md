@@ -2,6 +2,7 @@
 
 This project was made for Data Visualization Techniques course.
 Our task was to analyze data connected with sports and as a result create a poster.
+We have come up with an idea to compare FIFA players statistics with real life data.
 
 ## Authors:
 [Tymoteusz Urban](https://github.com/tymsoncyferki)<br>
