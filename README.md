@@ -1,8 +1,6 @@
 # Fifa vs Reality
 
-This project was made for Data Visualization Techniques course.
-Our task was to analyze data connected with sports and as a result create a poster.
-We have come up with an idea to compare FIFA players statistics with real life data.
+This project was created for a Data Visualization Techniques course. Our task was to analyze sports-related data and make a poster as a result. We came up with an idea to compare FIFA player statistics with real-life data. Our poster secured second place in the people's voting competition.
 
 ## Authors:
 [Tymoteusz Urban](https://github.com/tymsoncyferki)<br>
